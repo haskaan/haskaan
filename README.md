@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Arvato Supply Chain Solutions, develop cloud-based smart logistics systems.
 
 [![haskaan's github stats](https://github-readme-stats.vercel.app/api?username=haskaan&show_icons=true&theme=radical&count_private=true)](https://github.com/haskaan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haskaan&layout=compact)](https://github.com/haskaan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haskaan&layout=compact&hide=javascript,html)](https://github.com/haskaan/github-readme-stats)
