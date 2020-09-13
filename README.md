@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+#### My name is Kaan,
 <!--
 **haskaan/haskaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Parallel Computing and Microservice Architectures.
+- 🔭 I’m currently working at Arvato Supply Chain Solutions, develop cloud-based smart logistics systems.
+
+[![haskaan's github stats](https://github-readme-stats.vercel.app/api?username=haskaan&show_icons=true&theme=radical&count_private=true)](https://github.com/haskaan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haskaan&layout=compact)](https://github.com/haskaan/github-readme-stats)
