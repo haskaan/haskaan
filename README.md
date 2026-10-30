@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Parallel Computing and Microservice Architectures.
 - 🔭 I’m currently working at <a href="https://www.intertech.com.tr">INTERTECH</a>, develop cloud-based digital wallet.
 
-[![haskaan's github stats](https://github-readme-stats.vercel.app/api?username=haskaan&show_icons=true&theme=radical&count_private=true)](https://github.com/haskaan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haskaan&layout=compact&hide=javascript,html)](https://github.com/haskaan/github-readme-stats)
+[![haskaan's github stats](https://github-stats-extended.vercel.app/api?username=haskaan&show_icons=true&theme=radical&count_private=true)](https://github.com/haskaan/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=haskaan&layout=compact&hide=javascript,html)](https://github.com/haskaan/github-readme-stats)
